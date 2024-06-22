@@ -22,5 +22,3 @@ function positiveSum(arr) {
 
 console.log(positiveSum(([1, 2, 3, 4, 5]))) // 15
 console.log(positiveSum(([1, 2, 3, -4, 5]))) // 11
-console.log(positiveSum(([1, -2, 3, -4, 5]))) // 9
-console.log(positiveSum(([1, 10, 3, -4, 5]))) // 9
